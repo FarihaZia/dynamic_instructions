@@ -1,4 +1,4 @@
-#  Dynamic Instructions Agents – Homework
+#  Dynamic Instructions Agents 
 
 This repository contains **3 exercises** where I implemented **dynamic instruction systems** for agents using Python.  
 The agent instructions adapt automatically based on the **context fields** provided (like user type, seat preference, or traveler profile).
@@ -45,6 +45,3 @@ The agent instructions adapt automatically based on the **context fields** provi
 - **Business + Executive** → efficiency, airport hotels, wifi, lounges  
 
 ---
-
-   git clone https://github.com/your-username/dynamic-instructions-agents.git
-   cd dynamic-instructions-agents
